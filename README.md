@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MDAbdullaAlSaifChowdhury
-- 👀 I’m interested in ... Ehical Hacking, CyberSecurity, Web Penetration Testing, Web Development, App Development. 
+- 👀 I’m interested in ... Ethical Hacking, CyberSecurity, Web Penetration Testing, Web Development, App Development. 
 - 🌱 I’m currently learning ... BlockChain Development,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
